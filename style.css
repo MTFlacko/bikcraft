@@ -11,3 +11,11 @@
 @import "./seguros/seguros.css";
 @import "./css/global/footer.css";
 @import "./termos/termos.css";
+@import "./css/bicicletas/bicicletas.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
+@import "./css/bicicletas/bicicleta.css";
+@import "./bicicletas/seguro.css";
+@import "./contato/contato.css";
+@import "./css/ultilidades/formulario.css";
+@import "./contato/lojas.css";
